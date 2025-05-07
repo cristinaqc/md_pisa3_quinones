@@ -1,5 +1,12 @@
-Author: Cristinaqc
+# Author:
 
-Description: this is a set of .md files which serve as documentation for one of the subject's projects.
+
+Cristinaqc
+
+---
+
+# Description:
+
+This is a set of .md files which serve as documentation for one of the subject's projects.
 
 It contains the result of a research about sustainability and the 2030 agenda.
